@@ -1,34 +1,34 @@
 {
-  "English":{
-    "Icon":"6790541697",
-    
-    "LoadingPanel":"Loading Panel...",
-    "Loading UI":"Loading UI..."
-    "LoadingScripts":"Loading Scripts...",
-    "LoadingServer":"Connecting w/ server..",
+	"English": {
+		"Icon": "6790541697",
 
-    "TwoStepExplain":"The game creators has Two-Step verification enabled for this admin panel. Please enter the code given by your adminstrator:",
-    "TwoStepTitle":"Two-Step Verification",
+		"LoadingPanel": "Loading Panel...",
+		"Loading UI": "Loading UI...",
+		"LoadingScripts": "Loading Scripts...",
+		"LoadingServer": "Connecting w/ server..",
 
-    "PlayerSelector":"PLAYER SELECTOR",
+		"TwoStepExplain": "The game creators has Two-Step verification enabled for this admin panel. Please enter the code given by your adminstrator:",
+		"TwoStepTitle": "Two-Step Verification",
+
+		"PlayerSelector": "PLAYER SELECTOR",
 
 
 
-    "History":"History",
-    "Open":"Open",
-  },
-  "Dutch":{
-    "Icon":"8485761298",
+		"History": "History",
+		"Open": "Open"
+	},
+	"Dutch": {
+		"Icon": "8485761298",
 
-    "LoadingPanel":"Laden van Paneel",
-    "Loading UI":"Laden van UI."
-    "LoadingScripts":"Laden van Scripts",
-    "LoadingServer":"Verbinden m/ server",
+		"LoadingPanel": "Laden van Paneel",
+		"Loading UI": "Laden van UI.",
+		"LoadingScripts": "Laden van Scripts",
+		"LoadingServer": "Verbinden m/ server",
 
-    "TwoStepExplain":"De game eigenaar heeft Twee-Stap verificatie aan staan. Voer de code in die gegeven is door uw administrator:",
-    "TwoStepTitle":"Twee-Stap Verificatie",
+		"TwoStepExplain": "De game eigenaar heeft Twee-Stap verificatie aan staan. Voer de code in die gegeven is door uw administrator:",
+		"TwoStepTitle": "Twee-Stap Verificatie",
 
-    "PlayerSelector":"PLAYER SELECTIE",
-  }
-  
+		"PlayerSelector": "PLAYER SELECTIE"
+	}
+
 }
